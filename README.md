@@ -1,2 +1,3 @@
 # TacosCity
-TEST BASE TEXT
+GIT Tacos City
+Projet ISN
